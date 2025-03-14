@@ -1,0 +1,16 @@
+{
+    "customerName": "John Doe",
+    "invoiceDate": "2023-10-15",
+    "items": [
+        {
+            "itemName": "Laptop",
+            "quantity": 2,
+            "price": 1200
+        },
+        {
+            "itemName": "Mouse",
+            "quantity": 5,
+            "price": 25
+        }
+    ]
+}
